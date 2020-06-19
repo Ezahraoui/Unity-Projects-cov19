@@ -4,7 +4,7 @@
 
 ## Demo:
 
-![image](./Ellen's 2D Game/Assets/Ellen's Game 2D.gif)
+![image](https://github.com/Ezahraoui/Unity-Projects-cov19/blob/master/Ellen's%202D%20Game/Assets/Ellen's%20Game%202D.gif?raw=true)
 
 # Tools used:
 * Visual studio (IDE)
