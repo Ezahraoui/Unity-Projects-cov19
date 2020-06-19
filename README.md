@@ -4,7 +4,13 @@
 
 ## Demo:
 
-![image](https://github.com/Ezahraoui/Unity-Projects-cov19/blob/master/Ellen's%202D%20Game/Assets/Ellen's%20Game%202D.gif?raw=true)
+![image](https://github.com/Ezahraoui/Unity-Projects-cov19/blob/master/Ellen's%202D%20Game/Assets/Projet%20sans%20titre.gif)
+
+# 2D Ball Game
+
+## Demo:
+![image](https://github.com/Ezahraoui/Unity-Projects-cov19/blob/master/2D%20Ball%20Game/Assets/2D_ball_game.gif)
+
 
 # Tools used:
 * Visual studio (IDE)
