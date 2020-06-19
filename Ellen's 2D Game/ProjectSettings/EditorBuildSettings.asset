@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/2DGamekit/Scenes/Start.unity
+    guid: 57df1e417250bc247976c2c0dc088efe
+  - enabled: 1
+    path: Assets/2DGamekit/Scenes/Zone1.unity
+    guid: a94cb8f134bf81349ad016c79b629e3d
+  - enabled: 1
+    path: Assets/2DGamekit/Scenes/Zone2.unity
+    guid: 5436c67e9267f17458b31fcdc20cd20a
+  - enabled: 1
+    path: Assets/2DGamekit/Scenes/Zone3.unity
+    guid: 4b4b0e246fc7dbb4295a38fd03241362
+  - enabled: 1
+    path: Assets/2DGamekit/Scenes/Zone4.unity
+    guid: 5b0c2d9ddd151ba489db19a4fb634327
+  - enabled: 1
+    path: Assets/2DGamekit/Scenes/Zone5.unity
+    guid: 960b12f881940d84983273421bebc695
+  - enabled: 1
+    path: Assets/2DGamekit/Scenes/UI/UIMenus.unity
+    guid: 705f1f73151a73046842d4e4ec8f514d
+  - enabled: 1
+    path: Assets/2DGamekit/Scenes/UI/Loading.unity
+    guid: ebc4647ff02971c4ba1b207af066be4d
+  - enabled: 1
+    path: 
+    guid: 240ec9824a41a4ecb8ccdf3507d1adc0
+  - enabled: 1
+    path: 
+    guid: beaba465fcff4439795f30ae75d58f6e
+  - enabled: 1
+    path: 
+    guid: 270072cfc180a47179cff49edea38e4c
+  - enabled: 1
+    path: 
+    guid: 1b6fd90cf2d7eee49895bf4317d238d4
+  - enabled: 1
+    path: Assets/JeuEllen.unity
+    guid: a1714aa77aa0fc849a4bbe17b1713a9f
+  m_configObjects: {}
