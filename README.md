@@ -4,7 +4,7 @@
 
 ## Demo:
 
-![alt text](Ellen's 2D Game/Assets/Ellen's Game 2D.gif)
+![image](Ellen's 2D Game/Assets/Ellen's Game 2D.gif)
 
 # Tools used:
 * Visual studio (IDE)
